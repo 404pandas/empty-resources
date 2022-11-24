@@ -1,4 +1,5 @@
-<a href="readme-top"></a>
+<div align="center">
+
   <!-- Add badges using the following format: -->
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,6 +8,8 @@
 [![Stargazers](https://img.shields.io/github/stars/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/stargazers)
 [![Issues](https://img.shields.io/github/issues/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/LinkedInUsername)
+
+</div>
 
 <!-- PROJECT LOGO -->
 
@@ -68,13 +71,16 @@
 
 Insert information about the project here
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
-- [![Nodejs.](nodejs-shield-url-here)(nodejs-url-here)
+<div align="center">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+To make your own shield using shields.io, follow this template:
+
+`[![Name-for-badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<HEXCOLOR>?style=<STYLE>&logo=<ICON_SLUG>&logoWidth=<HORIZONTAL_SPACE>)](link-to-documentation)`
+[![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
+
+</div>
 
 <!-- GETTING STARTED -->
 
@@ -91,15 +97,11 @@ Prerequisites info here.
 1. Clone the repo
    git clone https://github.com/404pandas/Repo-Name-Here.git
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -111,8 +113,6 @@ Use this space to show useful examples of how a project can be used. Additional 
   - [ ] Nested Feature
 
 See the [open issues](https://github.com/404pandas/Repo-Name-Here/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -129,8 +129,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
@@ -138,8 +136,6 @@ Don't forget to give the project a star! Thanks again!
 This project is licensed under the MIT license.
 
 See LICENSE.txt for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -149,8 +145,6 @@ Your Name - email@email_client.com
 
 Project Link: [https://github.com/404pandas/Repo-Name-Here](https://github.com/404pandas/Repo-Name-Here)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
@@ -158,5 +152,3 @@ Project Link: [https://github.com/404pandas/Repo-Name-Here](https://github.com/4
 - []()
 - []()
 - []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -84,15 +84,15 @@ To make your own shield using shields.io, follow this template:
 
 <!-- GETTING STARTED -->
 
-### Getting Started
+## Getting Started
 
 Getting Started info here.
 
-## Prerequisites
+### Prerequisites
 
 Prerequisites info here.
 
-## Installation
+### Installation
 
 1. Clone the repo
    git clone https://github.com/404pandas/Repo-Name-Here.git

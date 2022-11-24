@@ -51,14 +51,14 @@ Clicking on the shields will bring the user to the documentation of the listed t
 
 ## Web frameworks and technologies
 
-[![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://https://nodejs.org/en/)
+[![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/Framework-React.js-ff8000?style=plastic&logo=React&logoWidth=10)](https://reactjs.org/docs/getting-started.html)
 [![jQuery](https://img.shields.io/badge/Framework-jQuery-ffff00?style=plastic&logo=jQuery&logoWidth=10)](hhttps://api.jquery.com/)
 [![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
 [![Angular](https://img.shields.io/badge/Framework-Angular-00ff00?style=plastic&logo=Angular&logoWidth=10)](https://angular.io/)
 [![Vue.js](https://img.shields.io/badge/Framework-Vue.js-00ff80?style=plastic&logo=Vue.js&logoWidth=10)](https://vuejs.org/)
 [![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET_Core-00ffff?style=plastic&logo=microsoft&logoWidth=10)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0)
-[![Node.js](https://img.shields.io/badge/Framework-ASP.NET-0080ff?style=plastic&logo=microsoft&logoWidth=10)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-0080ff?style=plastic&logo=microsoft&logoWidth=10)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![django](https://img.shields.io/badge/Framework-django-0000ff?style=plastic&logo=Django&logoWidth=10)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-8000ff?style=plastic&logo=Flask&logoWidth=10)](https://www.fullstackpython.com/flask.html)
 [![NEXT.js](https://img.shields.io/badge/Framework-Next.js-ff00ff?style=plastic&logo=Next.js&logoWidth=10)](https://nextjs.org/)
@@ -77,7 +77,7 @@ Clicking on the shields will bring the user to the documentation of the listed t
 [![Unreal Engine](https://img.shields.io/badge/Tools-Unreal_Engine-0000ff?style=plastic&logo=UnrealEngine&logoWidth=10)](https://www.unrealengine.com/en-US/)
 [![puppet](https://img.shields.io/badge/Tools-Puppet-8000ff?style=plastic&logo=Puppet&logoWidth=10)](https://puppet.com/)
 [![Chef](https://img.shields.io/badge/Tools-Chef-ff00ff?style=plastic&logo=progress&logoWidth=10)](https://www.chef.io/)
-[![Docker](https://img.shields.io/badge/Tools-Pulumi-ff0080?style=plastic&logo=Pulumi&logoWidth=10)](https://https://nodejs.org/enDocker)
+[![Docker](https://img.shields.io/badge/Tools-Pulumi-ff0080?style=plastic&logo=Pulumi&logoWidth=10)](https://nodejs.org/enDocker)
 
 ## IDE
 

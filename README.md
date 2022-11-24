@@ -68,6 +68,8 @@ The only requirement to use these resources is your favorite code editor and the
 1. Clone the repo
    git clone https://github.com/404pandas/empty-resources.git
 
+For a video demonstration on how to utilize the shields for your readme, [click here](https://drive.google.com/file/d/1Tm0c3b38_Cpnc9O9u8OOy7L6XWXaJ7wY/view?usp=sharing)
+
 ## Roadmap
 
 - [ ] Popular Code Snippets

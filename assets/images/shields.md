@@ -11,7 +11,7 @@ Clicking on the shields will bring the user to the documentation of the listed t
 [![SQL](https://img.shields.io/badge/Language-SQL-ffff00?style=plastic&logo=MySQL&logoWidth=10)](https://docs.oracle.com/cd/E12151_01/index.htm)
 [![Python](https://img.shields.io/badge/Language-Python-80ff00?style=plastic&logo=Python&logoWidth=10)](https://docs.python.org/3/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-00ff00?style=plastic&logo=TypeScript&logoWidth=10)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Language-Java-00ff80?style=plastic&logo=Java&logoWidth=10)](https://dev.java/learn/)
+[![Java](https://img.shields.io/badge/Language-Java-00ff80?style=plastic&logo=Java&logoWidth=10)](https://dev.java/learn/)
 [![PowerShell](https://img.shields.io/badge/Language-Bash/Shell-00ffff?style=plastic&logo=PowerShell&logoWidth=10)](https://learn.microsoft.com/en-us/powershell/)
 [![C#](https://img.shields.io/badge/Language-C#-0080ff?style=plastic&logo=Csharp&logoWidth=10)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/Language-C++-0000ff?style=plastic&logo=C&logoWidth=10)](https://cplusplus.com/doc/)

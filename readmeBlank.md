@@ -2,11 +2,12 @@
 
   <!-- Add badges using the following format: -->
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/Repo-Name-Here.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Repo-Name-Here/issues)
+[![Contributors](https://img.shields.io/github/contributors/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/network/members)
+[![Stargazers](https://img.shields.io/github/stars/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/stargazers)
+[![Issues](https://img.shields.io/github/issues/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/LinkedInUsername)
 
 </div>
@@ -14,23 +15,22 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/404pandas/Repo-Name-Here">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/404pandas/PARSR">
+    <img src="/client/src/images/FFRlogo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Title Here</h3>
+<h3 align="center">PARSR</h3>
 
   <p align="center">
-    Project Description Here
+Project Animal Reunification Search & Rescue    <br />
+    <a href="https://github.com/404pandas/PARSR"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/404pandas/Repo-Name-Here"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/404pandas/Repo-Name-Here">View Demo</a>
+    <a href="https://github.com/404pandas/PARSR">View Demo(Broken)</a>
     ·
-    <a href="https://github.com/404pandas/Repo-Name-Here/issues">Report Bug</a>
+    <a href="https://github.com/404pandas/PARSR/issues">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/Repo-Name-Here/issues">Request Feature</a>
+    <a href="https://github.com/404pandas/PARSR/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,7 +47,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -67,18 +66,24 @@
 <!-- Add screenshots using the following format: -->
 <!-- ![Screenshot alt description](directPathOfScreenshots) -->
 
-![Screenshot of live image](directPathHere)
-
-Insert information about the project here
+This project was built with the MERN stack and Apollo + GraphQL.
+It's currently not operational as the styling is switched to utilizing MUI.
 
 ### Built With
 
+<!--  Dayjs, gsap, jquery, materialize, javascript, css, html, node.js npm vs code -->
+
 <div align="center">
 
-To make your own shield using shields.io, follow this template:
-
-`[![Name-for-badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<HEXCOLOR>?style=<STYLE>&logo=<ICON_SLUG>&logoWidth=<HORIZONTAL_SPACE>)](link-to-documentation)`
 [![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-80ff00?style=plastic&logo=MongoDB&logoWidth=10)](https://www.mongodb.com/home)
+[![Heroku](https://img.shields.io/badge/Cloud-Heroku-00ff00?style=plastic&logo=Heroku&logoWidth=10)](https://devcenter.heroku.com/categories/reference)
+[![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
+[![React](https://img.shields.io/badge/Framework-React.js-ff8000?style=plastic&logo=React&logoWidth=10)](https://reactjs.org/docs/getting-started.html)
+[![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
+[![npm](https://img.shields.io/badge/Tools-npm-ff0000?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-ff0000?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
+[![MUI](https://img.shields.io/badge/Package-MUI-ff0000?style=plastic&logo=MUI&logoWidth=10)](https://mui.com/)
 
 </div>
 
@@ -86,33 +91,28 @@ To make your own shield using shields.io, follow this template:
 
 ## Getting Started
 
-Getting Started info here.
-
-### Prerequisites
-
-Prerequisites info here.
+Once completely built, this application will function as a deployed app on Heroku
 
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/404pandas/Repo-Name-Here.git
+   git clone https://github.com/404pandas/PARSR.git
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Once the app is functional, screenshots will be added in this section.
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+- [ ] Map
+- [ ] Stripe
+- [ ] Twilio
 
-See the [open issues](https://github.com/404pandas/Repo-Name-Here/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/404pandas/PARSR/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -141,14 +141,12 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-Your Name - email@email_client.com
+Mary Elenius - mary.panda.jackson@gmail.com
 
-Project Link: [https://github.com/404pandas/Repo-Name-Here](https://github.com/404pandas/Repo-Name-Here)
+Project Link: [https://github.com/404pandas/PARSR](https://github.com/404pandas/PARSR)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!

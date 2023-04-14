@@ -65,6 +65,12 @@ The only requirement to use these resources is your favorite code editor and the
 
 ## Installation
 
+
+
+https://user-images.githubusercontent.com/113853550/231918257-246a1ad6-3da8-47c6-a338-5b84abed39bf.mp4
+
+
+
 1. Clone the repo
    git clone https://github.com/404pandas/empty-resources.git
 

@@ -4,33 +4,35 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/PARSR.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/PARSR/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/LinkedInUsername)
+[![Contributors](https://img.shields.io/github/contributors/404pandas/Parsemon-Full-Stack.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Parsemon-Full-Stack/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/404pandas/Parsemon-Full-Stack.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Parsemon-Full-Stack/network/members)
+[![Stargazers](https://img.shields.io/github/stars/404pandas/Parsemon-Full-Stack.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Parsemon-Full-Stack/stargazers)
+[![Issues](https://img.shields.io/github/issues/404pandas/Parsemon-Full-Stack.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/Parsemon-Full-Stack/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
 </div>
 
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/404pandas/PARSR">
-    <img src="/client/src/images/FFRlogo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/404pandas/Parsemon-Full-Stack">
+    <img src="./assets/images/logo-main.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PARSR</h3>
+  <h3 align="center">Parsemon- Full Stack</h3>
 
   <p align="center">
-Project Animal Reunification Search & Rescue    <br />
-    <a href="https://github.com/404pandas/PARSR"><strong>Explore the docs »</strong></a>
+    Brought to you by 2U's Teacher's Assistants Cody Chase and Mary Elenius<br />
+    <a href="https://github.com/404pandas/Parsemon-Full-Stack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/404pandas/PARSR">View Demo(Broken)</a>
+    <!-- TODO- add deployed link -->
+    <a href="https://github.com/404pandas/Parsemon-Full-Stack">View Demo(Coming Soon)</a>
     ·
-    <a href="https://github.com/404pandas/PARSR/issues">Report Bug</a>
+    <a href="https://github.com/404pandas/Parsemon-Full-Stack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/PARSR/issues">Request Feature</a>
+    <a href="https://github.com/404pandas/Parsemon-Full-Stack/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -66,24 +68,84 @@ Project Animal Reunification Search & Rescue    <br />
 <!-- Add screenshots using the following format: -->
 <!-- ![Screenshot alt description](directPathOfScreenshots) -->
 
-This project was built with the MERN stack and Apollo + GraphQL.
-It's currently not operational as the styling is switched to utilizing MUI.
+Pokemon enthusiast app with replica TCG, Random Duel, and Deck Builder built by the instructional staff of the University of Central Florida Coding Bootcamp as an example for students to view.
+This project was built with vanilla JS/CSS/HTML, materialize css, bcrypt, socket.io, draggable.js, GSAP, connect-session-sequelize, dotenv, express, express-handlebars, express-session, pg, sequelize, eslint, eslint-config-prettier, nodemon, and prettier with the help of other assorted third party API's.
 
 ### Built With
-
-<!--  Dayjs, gsap, jquery, materialize, javascript, css, html, node.js npm vs code -->
 
 <div align="center">
 
 [![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-80ff00?style=plastic&logo=MongoDB&logoWidth=10)](https://www.mongodb.com/home)
-[![Heroku](https://img.shields.io/badge/Cloud-Heroku-00ff00?style=plastic&logo=Heroku&logoWidth=10)](https://devcenter.heroku.com/categories/reference)
-[![Node.js](https://img.shields.io/badge/Framework-Node.js-ff0000?style=plastic&logo=Node.js&logoWidth=10)](https://nodejs.org/en/)
-[![React](https://img.shields.io/badge/Framework-React.js-ff8000?style=plastic&logo=React&logoWidth=10)](https://reactjs.org/docs/getting-started.html)
-[![Express](https://img.shields.io/badge/Framework-Express-80ff00?style=plastic&logo=Express&logoWidth=10)](https://expressjs.com/)
-[![npm](https://img.shields.io/badge/Tools-npm-ff0000?style=plastic&logo=npm&logoWidth=10)](https://www.npmjs.com/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-ff0000?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
-[![MUI](https://img.shields.io/badge/Package-MUI-ff0000?style=plastic&logo=MUI&logoWidth=10)](https://mui.com/)
+[![HTML](https://img.shields.io/badge/Language-HTML-ff8000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
+[![CSS](https://img.shields.io/badge/Language-CSS-ffff00?style=plastic&logo=HTML5&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Materialize](https://img.shields.io/badge/Framework-Materialize-80ff00?style=plastic&logo=jQuery&logoWidth=10)](https://materializecss.com/)
+
+<!-- bcrypt -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- connect-session-sequelize -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- dotenv -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- express -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- express-handlebars -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- express-session -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- pg -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- sequelize -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- eslint -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- eslint-config-prettier -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- nodemon -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- prettier -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- socket.io -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- draggable.js -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- GSAP -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+
+<!-- Render -->
+
+[![Name](https://img.shields.io/badge/Type-Name-80ff00?style=plastic&logo=LogoName&logoWidth=10)](https://librarydocs.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-0000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
+[![PokemonTCGApi](https://img.shields.io/badge/API-PokemonTCG-8000ff?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://pokemontcg.io/)
+[![jQuery](https://img.shields.io/badge/API-jQuery-ff00ff?style=plastic&logo=jQuery&logoWidth=10)](https://jquery.com/)
 
 </div>
 
@@ -91,12 +153,42 @@ It's currently not operational as the styling is switched to utilizing MUI.
 
 ## Getting Started
 
-Once completely built, this application will function as a deployed app on Heroku
+Once completely built, this application will function as a deployed app on Render
 
-### Installation
+### Local Installation / Testing
 
-1. Clone the repo
-   git clone https://github.com/404pandas/PARSR.git
+1. Clone the rep
+
+```
+git clone https://github.com/404pandas/Parsemon-Full-Stack.git
+```
+
+2. Open your IDE's terminal and run the following command to install the app's external dependencies:
+
+```
+npm run i
+```
+
+3. Remove .EXAMPLE from the .env file and add your local information
+
+4. Run the following command in your SQL terminal:
+
+```
+DROP DATABASE IF EXISTS parsemon_db;
+CREATE DATABASE parsemon_db;
+```
+
+5. Run the following command in your IDE's terminal to seed the database:
+
+```
+npm run seed
+```
+
+6. Run the following command in your IDE's terminal to run the app locally:
+
+```
+npm run start
+```
 
 <!-- USAGE EXAMPLES -->
 
@@ -104,15 +196,89 @@ Once completely built, this application will function as a deployed app on Herok
 
 Once the app is functional, screenshots will be added in this section.
 
+<!-- Add screenshots using the following format: -->
+<!-- ![Screenshot alt description](directPathOfScreenshots) -->
+
 <!-- ROADMAP -->
 
 ## Roadmap
 
-- [ ] Map
-- [ ] Stripe
-- [ ] Twilio
+<!-- TODO: Build Roadmap with Cody's Github issues -->
 
-See the [open issues](https://github.com/404pandas/PARSR/issues) for a full list of proposed features (and known issues).
+#### MVP
+
+- [ ] Front End
+
+  - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] TCG
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] Random Duel
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] Deck Builder
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] About Us
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] Personal Profile
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] Other User's Profile
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+  - [ ] Random Duel
+    - [ ] Landing Page
+    - [ ] Wireframe
+    - [ ] General Layout
+    - [ ] UI interacting with back end
+    - [ ] Final Styling
+
+- [ ] Milk Men Teamwork
+
+  - [ ] Discuss Wireframes
+  - [ ] Discuss using Figma KanBan for students to see an example of alternative to Github
+  - [ ] Discuss model architecture
+  - [ ] Connect back end to front end
+
+- [ ] Back End
+  - [ ] Models created
+  - [ ] Relations added
+  - [ ] Seeds created
+  - [ ] Seed script running and seeding database
+  - [ ] Other stuff I can't begin to imagine because I hate back end
+
+#### Future Development
+
+- [ ] Add/Remove friends
+- [ ] Chat
+- [ ] Block users
+- [ ] Unique Pokemon Page
+
+See the [open issues](https://github.com/404pandas/Parsemon-Full-Stack/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -141,12 +307,26 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-Mary Elenius - mary.panda.jackson@gmail.com
+[Mary Elenius](https://maryelenius.com/d20) - mary.panda.jackson@gmail.com
 
-Project Link: [https://github.com/404pandas/PARSR](https://github.com/404pandas/PARSR)
+<!-- TODO- add cody's email if he wants -->
+
+[Cody Chase](https://github.com/404pandas) - [TODO- cody's email will go here]
+
+Project Links:
+
+<!-- TODO- add FIGMA board -->
+
+[Figma Board- link later]()
+
+[Github Repository](https://github.com/404pandas/Parsemon-Full-Stack)
+
+<!-- TODO- add deployment link -->
+
+[Deployment- link later]()
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+Mary would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty! She would also like to thank all of her students in the Spring 2024 UCF Full Stack Bootcamp for being a fantastic cohort!

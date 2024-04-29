@@ -7,7 +7,7 @@ Clicking on the shields will bring the user to the documentation of the listed t
 ## Languages
 
 [![Javascript](https://img.shields.io/badge/Language-JavaScript-ff0000?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
-[![HTML](https://img.shields.io/badge/Language-HTML/CSS-ff8000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
+[![HTML](https://img.shields.io/badge/Language-HTML-ff8000?style=plastic&logo=HTML5&logoWidth=10)](https://html.com/)
 [![SQL](https://img.shields.io/badge/Language-SQL-ffff00?style=plastic&logo=MySQL&logoWidth=10)](https://docs.oracle.com/cd/E12151_01/index.htm)
 [![Python](https://img.shields.io/badge/Language-Python-80ff00?style=plastic&logo=Python&logoWidth=10)](https://docs.python.org/3/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-00ff00?style=plastic&logo=TypeScript&logoWidth=10)](https://www.typescriptlang.org/)
@@ -94,6 +94,14 @@ Clicking on the shields will bring the user to the documentation of the listed t
 [![xcode](https://img.shields.io/badge/IDE-Xcode-ff00ff?style=plastic&logo=apple&logoWidth=10)](https://developer.apple.com/documentation/)
 [![Atom](https://img.shields.io/badge/IDE-Atom-ff0080?style=plastic&logo=Atom&logoWidth=10)](https://atom.io/)
 
+## Other
+
+[![CSS](https://img.shields.io/badge/Tool-CSS-ff8000?style=plastic&logo=HTML5&logoWidth=10)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Materialize](https://img.shields.io/badge/Framework-Materialize-80ff00?style=plastic&logo=jQuery&logoWidth=10)](https://materializecss.com/)
+[![Day.js](https://img.shields.io/badge/Package-Dayjs-ff0000?style=plastic&logo=VisualStudio&logoWidth=10)](https://day.js.org/)
+[![GSAP](https://img.shields.io/badge/Package-GSAP-ff8000?style=plastic&logo=VisualStudio&logoWidth=10)](https://https://greensock.com/gsap/)
+[![jQuery](https://img.shields.io/badge/Framework-jQuery-ffff00?style=plastic&logo=jQuery&logoWidth=10)](hhttps://api.jquery.com/)
+
 # Make your own
 
 To make your own shield using shields.io, follow this template:
@@ -102,10 +110,9 @@ To make your own shield using shields.io, follow this template:
 
 To include a dash in the word use -- (Two dashes)
 
-To include an underscore, use __ (Two underscores)
+To include an underscore, use \_\_ (Two underscores)
 
-To include a space, use _ (one underscore) or Space
-
+To include a space, use \_ (one underscore) or Space
 
 [![Example 1](https://img.shields.io/badge/Example-One-ff0000?style=&logo=&logoWidth=10)](https://)
 [![Example 2](https://img.shields.io/badge/Example-Two-ff8000?style=&logo=&logoWidth=10)](https://)
@@ -126,4 +133,3 @@ Available styles, changable by replacing "plastic" after ?style=
 [![Flat Style](https://img.shields.io/badge/style-flat-ff0000?style=flat)](https://)
 [![Square Style](https://img.shields.io/badge/style-flat_square-ff0000?style=flat-square)](https://)
 [![For The Badge](https://img.shields.io/badge/style-for_the_badge-ff0000?style=for-the-badge)](https://)
-
